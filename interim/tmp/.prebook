@@ -1,41 +1,5 @@
 [
   {
-    "tag": "p",
-    "innerHtml": "The Project Gutenberg eBook, , by , Translated by Väinö Nyman"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at <a href=\"http://www.gutenberg.org\">www.gutenberg.org</a>. If you are not located in the United States, you'll have to check the laws of the country where you are located before using this ebook."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Title: Erään rikoksen varjo"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Author: Sir Hall Caine"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Release Date: April 18, 2019 [eBook #59305]"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Language: Finnish"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "E-text prepared by Juhani Kärkkäinen and Tapio Riikonen"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "ERÄÄN RIKOKSEN VARJO\nKirj."
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
     "tag": "h4",
     "innerHtml": "Hall Caine"
   },
@@ -60,8 +24,12 @@
     "innerHtml": "Chapter I."
   },
   {
+    "tag": "h3",
+    "innerHtml": "Wythburnin Kaupunki."
+  },
+  {
     "tag": "p",
-    "innerHtml": "WYTHBURNIN KAUPUNKI.\nTervaista villaa, tervaista villaa, tervaista villaa on paha kehrätä; senvuoksi karttaa hyvin, karttaa hyvin, karttaa hyvin, ennenkuin aloitat."
+    "innerHtml": "Tervaista villaa, tervaista villaa, tervaista villaa on paha kehrätä; senvuoksi karttaa hyvin, karttaa hyvin, karttaa hyvin, ennenkuin aloitat."
   },
   {
     "tag": "p",
@@ -708,8 +676,12 @@
     "innerHtml": "Chapter III."
   },
   {
+    "tag": "h3",
+    "innerHtml": "Punaisessa Leijonassa."
+  },
+  {
     "tag": "p",
-    "innerHtml": "PUNAISESSA LEIJONASSA.\n\"Millaisissa hamppuisissa kotikutoisissa täällä tepastelettekaan!\""
+    "innerHtml": "\"Millaisissa hamppuisissa kotikutoisissa täällä tepastelettekaan!\""
   },
   {
     "tag": "p",
@@ -2324,8 +2296,12 @@
     "innerHtml": "Chapter VII."
   },
   {
+    "tag": "h3",
+    "innerHtml": "Simin Luola."
+  },
+  {
     "tag": "p",
-    "innerHtml": "SIMIN LUOLA.\nKun Ralph poistui omaan huoneeseensa isänsä kuoliniltana, painoi hänen sydäntään raskaampi taakka kuin tämä kauhistuttava tapaus voi aiheuttaakaan. Sellaisen miehen kuin Ralphin mielestä ei kuolemassa itsessään ollut mitään niin hirmuista, etteivät monet tunteet olisi voineet haihduttaa sen aiheuttamaa pelkoa. Ja mitä hänen isäänsä tuli, ei isä ollut tuntenut minkäänlaisia kuoleman kauhuja; hän ei ollut nähnyt sitä uhkaavana edessään, minkä vuoksi hänen kuolemansa oli vain sana eikä hänen hautansa ollut syvä. Ei, hauta ei ollut syvä. Ah, millainen pisto sisältyikään siihen ajatukseen, millainen uusi pisto siihen sisältyikään!"
+    "innerHtml": "Kun Ralph poistui omaan huoneeseensa isänsä kuoliniltana, painoi hänen sydäntään raskaampi taakka kuin tämä kauhistuttava tapaus voi aiheuttaakaan. Sellaisen miehen kuin Ralphin mielestä ei kuolemassa itsessään ollut mitään niin hirmuista, etteivät monet tunteet olisi voineet haihduttaa sen aiheuttamaa pelkoa. Ja mitä hänen isäänsä tuli, ei isä ollut tuntenut minkäänlaisia kuoleman kauhuja; hän ei ollut nähnyt sitä uhkaavana edessään, minkä vuoksi hänen kuolemansa oli vain sana eikä hänen hautansa ollut syvä. Ei, hauta ei ollut syvä. Ah, millainen pisto sisältyikään siihen ajatukseen, millainen uusi pisto siihen sisältyikään!"
   },
   {
     "tag": "p",
@@ -2728,8 +2704,12 @@
     "innerHtml": "Chapter VIII."
   },
   {
+    "tag": "h3",
+    "innerHtml": "Robbien Ilmoitukset."
+  },
+  {
     "tag": "p",
-    "innerHtml": "ROBBIEN ILMOITUKSET.\nKun Ralph nousi mennäkseen, seurasi Sim häntä rinteen puoliväliin. Siellä tuli Robbie Anderson vastaan lähestyen heitä nopeasti. Koska hänellä oli selvästi asiaa Ralphille, palasi Sim takaisin luolaansa."
+    "innerHtml": "Kun Ralph nousi mennäkseen, seurasi Sim häntä rinteen puoliväliin. Siellä tuli Robbie Anderson vastaan lähestyen heitä nopeasti. Koska hänellä oli selvästi asiaa Ralphille, palasi Sim takaisin luolaansa."
   },
   {
     "tag": "p",
@@ -3100,8 +3080,12 @@
     "innerHtml": "Chapter IX."
   },
   {
+    "tag": "h3",
+    "innerHtml": "Rikoksen Varjo."
+  },
+  {
     "tag": "p",
-    "innerHtml": "RIKOKSEN VARJO.\nViime yönä rukoilin ääneen huolissani ja tuskissani."
+    "innerHtml": "Viime yönä rukoilin ääneen huolissani ja tuskissani."
   },
   {
     "tag": "p",
@@ -3420,8 +3404,12 @@
     "innerHtml": "Chapter X."
   },
   {
+    "tag": "h3",
+    "innerHtml": "Matthew Branthwaite Nolaa Papin."
+  },
+  {
     "tag": "p",
-    "innerHtml": "MATTHEW BRANTHWAITE NOLAA PAPIN.\nShoulthwaite Mossin asukkaat olivat varhain liikkeellä Angus Rayn hautaamispäivänä. Matthew Branthwaiten vaimo ja tytär olivat jo auringonnoususta saakka työskennelleet ahkerasti vanhan talon keittiössä."
+    "innerHtml": "Shoulthwaite Mossin asukkaat olivat varhain liikkeellä Angus Rayn hautaamispäivänä. Matthew Branthwaiten vaimo ja tytär olivat jo auringonnoususta saakka työskennelleet ahkerasti vanhan talon keittiössä."
   },
   {
     "tag": "p",
@@ -3664,8 +3652,12 @@
     "innerHtml": "Chapter XI."
   },
   {
+    "tag": "h3",
+    "innerHtml": "Liisan Kepponen."
+  },
+  {
     "tag": "p",
-    "innerHtml": "LIISAN KEPPONEN.\nSaattue oli tuskin ehtinyt kääntyä kujalta vanhalle tielle, joka mutkitteli lammikon rantaa pitkin, kun pari vastaan tulevaa miestä käveli hitaasti sen sivu. Vaikka silloin oli ollutkin pimeä, kun Willy oli heidät ensi kerran kohdannut, ei hän hetkeäkään epäillyt, keitä miehet olivat."
+    "innerHtml": "Saattue oli tuskin ehtinyt kääntyä kujalta vanhalle tielle, joka mutkitteli lammikon rantaa pitkin, kun pari vastaan tulevaa miestä käveli hitaasti sen sivu. Vaikka silloin oli ollutkin pimeä, kun Willy oli heidät ensi kerran kohdannut, ei hän hetkeäkään epäillyt, keitä miehet olivat."
   },
   {
     "tag": "p",
@@ -3904,8 +3896,8 @@
     "innerHtml": "Chapter XII."
   },
   {
-    "tag": "p",
-    "innerHtml": "PAKO VUORILLA."
+    "tag": "h3",
+    "innerHtml": "Pako Vuorilla."
   },
   {
     "tag": "p",
@@ -4380,8 +4372,12 @@
     "innerHtml": "Chapter XIII."
   },
   {
+    "tag": "h3",
+    "innerHtml": "Pulmallinen Kysymys."
+  },
+  {
     "tag": "p",
-    "innerHtml": "PULMALLINEN KYSYMYS.\nKun poliisi David koetti nousta kaaduttuaan, huomasi hän liiankin monta syytä mullakseen jalkaansa katkenneeksi. Poliisi Jonathan ei ollut kolhiutunut niin pahasti, mutta noustuaan jälleen jaloilleen tunsi hän velvollisuuden äänen vaienneen sisimmässään sellaisiin toimenpiteihin nähden, jotka voisivat panna hänet vielä vakavammille vastuksille alttiiksi. Hän päinvastoin ihaili vastustajansa rohkeutta kuin ammattitaistelija ainakin eikä suinkaan ollut ollenkaan vihoissaan hänelle tappiostaan."
+    "innerHtml": "Kun poliisi David koetti nousta kaaduttuaan, huomasi hän liiankin monta syytä mullakseen jalkaansa katkenneeksi. Poliisi Jonathan ei ollut kolhiutunut niin pahasti, mutta noustuaan jälleen jaloilleen tunsi hän velvollisuuden äänen vaienneen sisimmässään sellaisiin toimenpiteihin nähden, jotka voisivat panna hänet vielä vakavammille vastuksille alttiiksi. Hän päinvastoin ihaili vastustajansa rohkeutta kuin ammattitaistelija ainakin eikä suinkaan ollut ollenkaan vihoissaan hänelle tappiostaan."
   },
   {
     "tag": "p",
@@ -4708,8 +4704,12 @@
     "innerHtml": "Chapter XV."
   },
   {
+    "tag": "h3",
+    "innerHtml": "Ralphin Uhrautuminen."
+  },
+  {
     "tag": "p",
-    "innerHtml": "RALPHIN UHRAUTUMINEN.\nSaavuttuaan vanhaan taloon oli Ralph valmistautunut kaikkien mahdollisien onnettomuuksien varalta, sillä sellaisia seurauksia oli enää olemassa hyvin vähän, joihin hänen olisi pitänyt valmistautua. Keittiöstä näkyi valoa ja senkin huoneen ikkunat olivat valaistut, missä hänen isänsä äsken oli levännyt. Kun Ralph tuli huoneeseen, istui Willy takan ääressä käsi kädessä Rothan kanssa, joka istui hänen vieressään. Hänen kalpeiden kasvojensa kaikissa piirteissä oli kärsimysten merkkejä."
+    "innerHtml": "Saavuttuaan vanhaan taloon oli Ralph valmistautunut kaikkien mahdollisien onnettomuuksien varalta, sillä sellaisia seurauksia oli enää olemassa hyvin vähän, joihin hänen olisi pitänyt valmistautua. Keittiöstä näkyi valoa ja senkin huoneen ikkunat olivat valaistut, missä hänen isänsä äsken oli levännyt. Kun Ralph tuli huoneeseen, istui Willy takan ääressä käsi kädessä Rothan kanssa, joka istui hänen vieressään. Hänen kalpeiden kasvojensa kaikissa piirteissä oli kärsimysten merkkejä."
   },
   {
     "tag": "p",
@@ -5412,8 +5412,12 @@
     "innerHtml": "Chapter XIX."
   },
   {
+    "tag": "h3",
+    "innerHtml": "Kihlaus."
+  },
+  {
     "tag": "p",
-    "innerHtml": "KIHLAUS.\nJäätyään yksikseen käsitti tyttö vasta täydellisesti tilanteensa. Hän kohotti kätensä silmilleen, saman käden, jossa vielä tuntui Willyn käden heikko kosketus."
+    "innerHtml": "Jäätyään yksikseen käsitti tyttö vasta täydellisesti tilanteensa. Hän kohotti kätensä silmilleen, saman käden, jossa vielä tuntui Willyn käden heikko kosketus."
   },
   {
     "tag": "p",
@@ -5660,8 +5664,12 @@
     "innerHtml": "Chapter XX."
   },
   {
+    "tag": "h3",
+    "innerHtml": "Salaisia Suunnitelmia."
+  },
+  {
     "tag": "p",
-    "innerHtml": "SALAISIA SUUNNITELMIA.\nKun pastori poistui Shoulthwaitestä sinä aamuna, tapasi hän Joe Garthin tien mutkassa. Seppä tulla tallusteli tietä pitkin vanne olallaan. Hän nosti lakkiaan, kun pastori saapui hänen kohdalleen. Hänen kunnianarvoisuutensa oli tavallisesti niin vaipunut ajatuksiinsa, ettei hän vastannut sellaisiin tervehdyksiin, mutta tällä kertaa hän kuitenkin pysähtyi."
+    "innerHtml": "Kun pastori poistui Shoulthwaitestä sinä aamuna, tapasi hän Joe Garthin tien mutkassa. Seppä tulla tallusteli tietä pitkin vanne olallaan. Hän nosti lakkiaan, kun pastori saapui hänen kohdalleen. Hänen kunnianarvoisuutensa oli tavallisesti niin vaipunut ajatuksiinsa, ettei hän vastannut sellaisiin tervehdyksiin, mutta tällä kertaa hän kuitenkin pysähtyi."
   },
   {
     "tag": "p",
@@ -6156,8 +6164,12 @@
     "innerHtml": "Chapter XXII."
   },
   {
+    "tag": "h3",
+    "innerHtml": "Hirmuinen Uhkaus."
+  },
+  {
     "tag": "p",
-    "innerHtml": "HIRMUINEN UHKAUS.\nRothan pelko onnettomuudesta, aiheutuiko se sitten rouva Garthin uhkauksesta vai sen syystä, toteutui nopeasti."
+    "innerHtml": "Rothan pelko onnettomuudesta, aiheutuiko se sitten rouva Garthin uhkauksesta vai sen syystä, toteutui nopeasti."
   },
   {
     "tag": "p",
@@ -6980,8 +6992,12 @@
     "innerHtml": "Chapter XXV."
   },
   {
+    "tag": "h3",
+    "innerHtml": "Liisan Suunnitelma."
+  },
+  {
     "tag": "p",
-    "innerHtml": "LIISAN SUUNNITELMA.\nHeti kun pieni nainen pääsi suurelle tielle, kääntyi hän Wythburniin päin. Pysähtymättä hetkeksikään juoksi hän vain eteenpäin ja kun hän matkallaan sivuutti monta maalaisryhmää, antoi hän itselleen harvoin aikaa vaihtaa heidän kanssaan muuta kuin jonkun tavallisen kohteliaisuuden tahi tervehdyksen ohimennessään."
+    "innerHtml": "Heti kun pieni nainen pääsi suurelle tielle, kääntyi hän Wythburniin päin. Pysähtymättä hetkeksikään juoksi hän vain eteenpäin ja kun hän matkallaan sivuutti monta maalaisryhmää, antoi hän itselleen harvoin aikaa vaihtaa heidän kanssaan muuta kuin jonkun tavallisen kohteliaisuuden tahi tervehdyksen ohimennessään."
   },
   {
     "tag": "p",
@@ -7628,8 +7644,8 @@
     "innerHtml": "Chapter XXVIII."
   },
   {
-    "tag": "p",
-    "innerHtml": "KOHTALON SORMI."
+    "tag": "h3",
+    "innerHtml": "Kohtalon Sormi."
   },
   {
     "tag": "p",
@@ -9216,8 +9232,12 @@
     "innerHtml": "Chapter XXXIII."
   },
   {
+    "tag": "h3",
+    "innerHtml": "Vihdoinkin Haudattu."
+  },
+  {
     "tag": "p",
-    "innerHtml": "VIHDOINKIN HAUDATTU.\nBetsy siellä todellakin oli, tamma, jonka he olivat menettäneet tuona kauheana päivänä Stye Headin solassa. Sen hirmuinen kuorma, ruumisarkku, jossa oli Angus Rayn maalliset jäännökset, oli vielä kiinni sen selässä. Kukaan ei ollut päässyt sitä lähelle, sillä muussa tapauksessa olisi arkku irroitettu. Tamma oli riutuneen ja väsyneen näköinen noustessaan nyt jaloilleen lumessa. Vanha hevonen oli hyvin mukautuvainen tänä aamuna ja kun Ralph taputti sen päätä, näytti se tuntevan käden, joka kosketti siihen."
+    "innerHtml": "Betsy siellä todellakin oli, tamma, jonka he olivat menettäneet tuona kauheana päivänä Stye Headin solassa. Sen hirmuinen kuorma, ruumisarkku, jossa oli Angus Rayn maalliset jäännökset, oli vielä kiinni sen selässä. Kukaan ei ollut päässyt sitä lähelle, sillä muussa tapauksessa olisi arkku irroitettu. Tamma oli riutuneen ja väsyneen näköinen noustessaan nyt jaloilleen lumessa. Vanha hevonen oli hyvin mukautuvainen tänä aamuna ja kun Ralph taputti sen päätä, näytti se tuntevan käden, joka kosketti siihen."
   },
   {
     "tag": "p",
@@ -9592,8 +9612,12 @@
     "innerHtml": "Chapter XXXV."
   },
   {
+    "tag": "h3",
+    "innerHtml": "Robbien Matkan Loppu."
+  },
+  {
     "tag": "p",
-    "innerHtml": "ROBBIEN MATKAN LOPPU.\nKaikki oli nyt ohi. Vaivalloinen haku oli loppunut ja Robbie Anderson oli tullut liian myöhään. Ralph oli antautunut ja paljon ikävämmät mahdollisuudet kuin Robbie oli arvannutkaan ja paljon kauheampi onnettomuus kuin Rotha Stagg ja Willy Ray olivat pelänneet tahi aavistaneetkaan uhkasi nyt johtua siitä."
+    "innerHtml": "Kaikki oli nyt ohi. Vaivalloinen haku oli loppunut ja Robbie Anderson oli tullut liian myöhään. Ralph oli antautunut ja paljon ikävämmät mahdollisuudet kuin Robbie oli arvannutkaan ja paljon kauheampi onnettomuus kuin Rotha Stagg ja Willy Ray olivat pelänneet tahi aavistaneetkaan uhkasi nyt johtua siitä."
   },
   {
     "tag": "p",
@@ -9852,8 +9876,12 @@
     "innerHtml": "Chapter XXXVI."
   },
   {
+    "tag": "h3",
+    "innerHtml": "Rothan Tunnustus."
+  },
+  {
     "tag": "p",
-    "innerHtml": "ROTHAN TUNNUSTUS.\n\"Rakastettuunsa suuttuminen tuntuu aivoissa hulluudella.\""
+    "innerHtml": "\"Rakastettuunsa suuttuminen tuntuu aivoissa hulluudella.\""
   },
   {
     "tag": "p",
@@ -10360,8 +10388,12 @@
     "innerHtml": "Chapter XXXVIII."
   },
   {
+    "tag": "h3",
+    "innerHtml": "Peine Forte Et Dure."
+  },
+  {
     "tag": "p",
-    "innerHtml": "PEINE FORTE ET DURE.\nIstuntosali oli pakaten täynnä kello kymmenen seuraavana aamuna. Kaikki paikat, joissa oli vain vähänkin tilaa, olivat aivan täynnä ihmisiä. Suuri istuntosali oli kaupungintalon läntisessä päässä. Se oli suuri parvekkeeton neliskulmainen huone. Katto-orret ja parrut olivat jalostamatonta tammea, kirveellä suoraan veistettyjä kaadetuista puista. Ikkunat olivat pienet ja valaistus oli senvuoksi heikko. Pitkä pöytä, joka muistutti graniittipaatta, peitettynä haalistuneella vihreällä veralla ja varustettuna suurilla kaiverretuilla jaloilla, oli huoneen toisessa päässä ulottuen melkein seinästä seinään. Pöydän takana korokkeella istuivat tuomarit mustissa kauniisti kaiverretuissa korkeaselkäisissä tuoleissa. Pöydän toisessa päässä oli luja aita ja sen takaa johtivat portaat alempana sijaitsevaan huoneeseen. Muudan oikeudenpalvelija seisoi aidakkeen toisessa, päässä. Aivan sitä vastapäätä oli kolme lavitsaa, jotka askelmien tapaan kohosivat toisiaan korkeammalle. Ne oli varattu valamiehistölle. Määrätyillä paikoilla pöydän ääressä istuivat yleinen syyttäjä, notaari ja pari kolme asianajajaa. Pöydällä oli vanha raudoitettu tammiarkku, joka oli suljettu monella munalukolla."
+    "innerHtml": "Istuntosali oli pakaten täynnä kello kymmenen seuraavana aamuna. Kaikki paikat, joissa oli vain vähänkin tilaa, olivat aivan täynnä ihmisiä. Suuri istuntosali oli kaupungintalon läntisessä päässä. Se oli suuri parvekkeeton neliskulmainen huone. Katto-orret ja parrut olivat jalostamatonta tammea, kirveellä suoraan veistettyjä kaadetuista puista. Ikkunat olivat pienet ja valaistus oli senvuoksi heikko. Pitkä pöytä, joka muistutti graniittipaatta, peitettynä haalistuneella vihreällä veralla ja varustettuna suurilla kaiverretuilla jaloilla, oli huoneen toisessa päässä ulottuen melkein seinästä seinään. Pöydän takana korokkeella istuivat tuomarit mustissa kauniisti kaiverretuissa korkeaselkäisissä tuoleissa. Pöydän toisessa päässä oli luja aita ja sen takaa johtivat portaat alempana sijaitsevaan huoneeseen. Muudan oikeudenpalvelija seisoi aidakkeen toisessa, päässä. Aivan sitä vastapäätä oli kolme lavitsaa, jotka askelmien tapaan kohosivat toisiaan korkeammalle. Ne oli varattu valamiehistölle. Määrätyillä paikoilla pöydän ääressä istuivat yleinen syyttäjä, notaari ja pari kolme asianajajaa. Pöydällä oli vanha raudoitettu tammiarkku, joka oli suljettu monella munalukolla."
   },
   {
     "tag": "p",
@@ -11020,8 +11052,12 @@
     "innerHtml": "Chapter XL."
   },
   {
+    "tag": "h3",
+    "innerHtml": "Garth Ja Kveekarit."
+  },
+  {
     "tag": "p",
-    "innerHtml": "GARTH JA KVEEKARIT.\nKun Rotha poistui kutojan asunnosta, kohtasi hän Liisan eteisessä."
+    "innerHtml": "Kun Rotha poistui kutojan asunnosta, kohtasi hän Liisan eteisessä."
   },
   {
     "tag": "p",
@@ -11188,8 +11224,12 @@
     "innerHtml": "Chapter XLI."
   },
   {
+    "tag": "h3",
+    "innerHtml": "Hevosen Hirnunta."
+  },
+  {
     "tag": "p",
-    "innerHtml": "HEVOSEN HIRNUNTA.\nSumea aurinko oli laskemaisillaan sumukerroksen läpi. Rotha käveli nopeasti kujaa, joka johti tielle Mossin asuinrakennuksesta. Laddie, paimenkoira, joka Ralphin poistumisen jälkeen oli kiintynyt häneen, juoksi nyt hänen rinnallaan."
+    "innerHtml": "Sumea aurinko oli laskemaisillaan sumukerroksen läpi. Rotha käveli nopeasti kujaa, joka johti tielle Mossin asuinrakennuksesta. Laddie, paimenkoira, joka Ralphin poistumisen jälkeen oli kiintynyt häneen, juoksi nyt hänen rinnallaan."
   },
   {
     "tag": "p",
@@ -11408,8 +11448,12 @@
     "innerHtml": "Chapter XLII."
   },
   {
+    "tag": "h3",
+    "innerHtml": "Turmiollinen Todistaja."
+  },
+  {
     "tag": "p",
-    "innerHtml": "TURMIOLLINEN TODISTAJA.\nPaljon ennen sovittua määräaikaa, jolloin tuomarien piti kuulustella Ralph Raytä uudestaan, oli Carlislen torille kokoontunut ääretön ihmisjoukko, joka tunkeili vanhan raatihuoneen portaitten edustalla odottaen ovien avaamista. Kun tornikello löi kymmenen, käveli kolme miestä rakennuksen sisällä sijaitsevaa käytävää avatakseen sisäänkäytävän yleisölle."
+    "innerHtml": "Paljon ennen sovittua määräaikaa, jolloin tuomarien piti kuulustella Ralph Raytä uudestaan, oli Carlislen torille kokoontunut ääretön ihmisjoukko, joka tunkeili vanhan raatihuoneen portaitten edustalla odottaen ovien avaamista. Kun tornikello löi kymmenen, käveli kolme miestä rakennuksen sisällä sijaitsevaa käytävää avatakseen sisäänkäytävän yleisölle."
   },
   {
     "tag": "p",
@@ -13532,8 +13576,12 @@
     "innerHtml": "Chapter XLVII."
   },
   {
+    "tag": "h3",
+    "innerHtml": "Rutto Saapuu Kaupunkiin."
+  },
+  {
     "tag": "p",
-    "innerHtml": "RUTTO SAAPUU KAUPUNKIIN.\nSeuraavana aamuna Rothan taistelun jälkeen rouva Garthin kanssa sillalla huhuttiin Wythburnissä, että rutto oli saapunut piirikuntaan. Uusien saarnaajien esiintymisestä asti olivat ihmiset kuvitelleet tuon peloittavan ruoskan riippuvan jokaisen sellaisen vieraan hihasta, joka oli saapunut sinne kaukaa pahasta maailmasta. He olivat pitäneet silmällä kaikkia peloittavia oireita, he olivat odottaneet niitä ja olivat kutsuneet ne luokseen. Jokainen tuulenpuuska tuntui heistä olevan tulvillaan rutontartuntaa ja jokainen pieninkin pahoinvointi näytti heistä siltä."
+    "innerHtml": "Seuraavana aamuna Rothan taistelun jälkeen rouva Garthin kanssa sillalla huhuttiin Wythburnissä, että rutto oli saapunut piirikuntaan. Uusien saarnaajien esiintymisestä asti olivat ihmiset kuvitelleet tuon peloittavan ruoskan riippuvan jokaisen sellaisen vieraan hihasta, joka oli saapunut sinne kaukaa pahasta maailmasta. He olivat pitäneet silmällä kaikkia peloittavia oireita, he olivat odottaneet niitä ja olivat kutsuneet ne luokseen. Jokainen tuulenpuuska tuntui heistä olevan tulvillaan rutontartuntaa ja jokainen pieninkin pahoinvointi näytti heistä siltä."
   },
   {
     "tag": "p",
@@ -14836,8 +14884,12 @@
     "innerHtml": "Chapter L."
   },
   {
+    "tag": "h3",
+    "innerHtml": "Seuraavana Aamuna."
+  },
+  {
     "tag": "p",
-    "innerHtml": "SEURAAVANA AAMUNA.\nSeuraavana aamuna auringon noustessa oli kirvesmiesten vasarain kalke lakannut kuulumasta torilta ja heidän lyhtynsä, jotka valaisivat huonosti koukuissaan kuin tulet sumuisen meren takaa, sammutettiin toinen toisensa jälkeen. Mustaan verhottuna kohosi se hirveä teline, jonka he olivat rakentaneet yöllä, vahtirakennuksen kulmatornien välissä."
+    "innerHtml": "Seuraavana aamuna auringon noustessa oli kirvesmiesten vasarain kalke lakannut kuulumasta torilta ja heidän lyhtynsä, jotka valaisivat huonosti koukuissaan kuin tulet sumuisen meren takaa, sammutettiin toinen toisensa jälkeen. Mustaan verhottuna kohosi se hirveä teline, jonka he olivat rakentaneet yöllä, vahtirakennuksen kulmatornien välissä."
   },
   {
     "tag": "p",
